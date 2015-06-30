@@ -1,1 +1,1 @@
-add
+-include vendor/add/config/prebuilt.mk
